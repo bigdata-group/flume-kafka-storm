@@ -12,7 +12,7 @@
         <flume>1.4.0</flume>
 
         <envClassifier>scala_2.9.2</envClassifier>
-        <scalaVersion>2.9.2</scalaVersion>
+        <scalaVersion>2.13.1</scalaVersion>
         <metrics>2.2.0</metrics>
         <kafkaArtifact>kafka_2.9.2</kafkaArtifact>
         <kafkaVersion>0.8.1</kafkaVersion>
